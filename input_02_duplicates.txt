@@ -1,0 +1,8 @@
+abc
+bca
+abc
+cab
+xyz
+zyx
+xyz
+abc
